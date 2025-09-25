@@ -24,7 +24,7 @@ SIH25022 : Maximizing section throughput using AI-Powered precise train traffic 
 ---
 
 ## 🏗️ Architecture 
-
+![Architecture](assets/architecture.png)
 
 ---
 
