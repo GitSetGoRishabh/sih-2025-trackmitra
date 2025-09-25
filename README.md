@@ -39,8 +39,8 @@ cd sih-2025-trackmitra
 ### Backend setup
 ```bash
 cd backend
-npm install   # or pip install -r requirements.txt
-npm start     # or python manage.py runserver
+npm install
+npm start
 ```
 
 ### Frontend setup
