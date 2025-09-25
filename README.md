@@ -9,7 +9,7 @@ SIH25022 : Maximizing section throughput using AI-Powered precise train traffic 
 ---
 
 ## 💡 Our Solution
--> 
+
 
 ---
 
@@ -50,10 +50,16 @@ npm install
 npm run dev
 ```
 
-## 📱 Demo
+---
 
+## 📱 Demo
+![Full Dashboard](assets/dashboard.png)
+
+---
 
 ## 📑 Documentation
+
+---
 
 
 ## 👨‍👩‍👧 Team Members
@@ -63,6 +69,8 @@ npm run dev
 4. **Kumari Ayushi Sahoo** - [GitHub](https://github.com/ayushisahoo22) | [LinkedIn](https://linkedin.com/in/ayushi-sahoo-539652341)
 5. **Priyanshu Maurya** - [GitHub](https://github.com/Priyanshu1617Maurya) | [LinkedIn](https://linkedin.com/in/priyanshu-maurya-68442833b)
 6. **Manya Tripathi** - [GitHub](https://github.com/manyat00) | [LinkedIn](https://linkedin.com/in/manya-tripathi-46704a303)
+
+---
 
 ## 📜 License
 This project is licensed under the MIT License.
