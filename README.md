@@ -53,7 +53,12 @@ npm run dev
 ---
 
 ## 📱 Demo
-![Full Dashboard](assets/dashboard.png)
+![Full Dashboard](assets/dashboard.png) 
+![Track Visualisation ](assets/trackvisualisation.jpg)
+![performance kpi](assets/performancekpi.jpg) 
+![basic data](assets/basicdata.jpg)
+![AI decisions](assets/aidecisions.jpg)
+![active trains](assets/activetrains.jpg)
 
 ---
 
