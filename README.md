@@ -22,28 +22,37 @@ _Edge AI - When the data is not centralised instead it is localised in local ser
 
 5.SAFETY AND RELIABILITY: It enforces signalling / headways . It can also work offline when in remote zones which can hinder the network , that's where the edge AI comes in play.
 
-6.
-
+6.MONITORING: As mentioned earlier there is a dedicated kpi dashboard for the constant monitoring for the average delay , throughput per hour , how much percentage trains are on time and what is the current energy consumption.
 
 ---
 
 ## 🛠️ Tech Stack  
-**Frontend**: React.js + D3.js/Mapbox + Tailwind CSS for dashboards, maps, and visualizations.
+***Frontend****: React.js + D3.js/Mapbox + Tailwind CSS for dashboards, maps, and visualizations.
 
-**Backend**: FastAPI/Django + PostgreSQL (TimescaleDB) + Redis + Kafka for data orchestration.
+***Backend***: FastAPI/Django + PostgreSQL (TimescaleDB) + Redis + Kafka for data orchestration.
 
-**APIs**: REST/GraphQL + WebSockets for real-time updates and external integrations.
+***APIs***: REST/GraphQL + WebSockets for real-time updates and external integrations.
 
-**AI/ML**: PyTorch/TensorFlow + OR-Tools + FastAPI ML endpoints for prediction & optimization.
+***AI/ML***: PyTorch/TensorFlow + OR-Tools + FastAPI ML endpoints for prediction & optimization.
 
-**Services**: Keycloak/JWT for auth, Prometheus/Grafana for monitoring, ELK for logging, SendGrid/Web Push for alerts.
+***Services***: Keycloak/JWT for auth, Prometheus/Grafana for monitoring, ELK for logging, SendGrid/Web Push for alerts.
 
-**Deployment**: AWS/GCP/Azure + Docker + Kubernetes + GitHub Actions for CI/CD + PWA for offline passenger access.
+***Deployment***: AWS/GCP/Azure + Docker + Kubernetes + GitHub Actions for CI/CD + PWA for offline passenger access.
 
 ---
 
 ## ✨ Features
-   
+- Maximized throughput.
+- Automated decisions for reduced time and efforts.
+- Real Time monitoring.
+- Proactive Delay handling.
+- Optimized train sequencing.
+- Passenger real time info.
+- Safety enforcement.
+- Scalability.
+- Data driven Analytics
+- Reduced energy / environmental impact.
+- Reduced controller workload.
 
 ---
 
