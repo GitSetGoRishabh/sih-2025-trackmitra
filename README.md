@@ -20,9 +20,10 @@ _Edge AI - When the data is not centralised instead it is localised in local ser
 
 4. PASSENGER AND STATION: It helps reducing the dwell time of a train at a particular station according to the number of passengers needed to board the train , gives accurate delay update and dynamically changes the dwell time according to it.
 
-5.SAFETY AND RELIABILITY: It enforces signalling / headways . It can also work offline when in remote zones which can hinder the network , that's where the edge AI comes in play.
+5. SAFETY AND RELIABILITY: It enforces signalling / headways . It can also work offline when in remote zones which can hinder the network , that's where the edge AI comes in play.
 
-6.MONITORING: As mentioned earlier there is a dedicated kpi dashboard for the constant monitoring for the average delay , throughput per hour , how much percentage trains are on time and what is the current energy consumption.
+6. MONITORING: As mentioned earlier there is a dedicated kpi dashboard for the constant monitoring for the average delay , throughput per hour , how much percentage trains are on time and what is the current energy consumption.
+
 
 ---
 
