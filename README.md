@@ -28,7 +28,7 @@ _Edge AI - When the data is not centralised instead it is localised in local ser
 ---
 
 ## 🛠️ Tech Stack  
-***Frontend****: React.js + D3.js/Mapbox + Tailwind CSS for dashboards, maps, and visualizations.
+***Frontend***: React.js + D3.js/Mapbox + Tailwind CSS for dashboards, maps, and visualizations.
 
 ***Backend***: FastAPI/Django + PostgreSQL (TimescaleDB) + Redis + Kafka for data orchestration.
 
