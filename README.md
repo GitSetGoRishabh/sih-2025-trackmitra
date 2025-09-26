@@ -103,7 +103,7 @@ npm run dev
 
 ## 👨‍👩‍👧 Team Members
 1. **Rishabh Singh Yadav** - Leader [GitHub](https://github.com/GitSetGoRishabh) | [LinkedIn](https://linkedin.com/in/rishabhsinghyadav0208)
-2. **Sayan jana** - [GitHub](https://github.com/httpssayan) | [LinkedIn](https://linkedin.com/in/sayan-jana-1267b8314)
+2. **Sayan Jana** - [GitHub](https://github.com/httpssayan) | [LinkedIn](https://linkedin.com/in/sayan-jana-1267b8314)
 3. **Akshat Yadav** - [GitHub](https://github.com/alias-codes) | [LinkedIn](https://linkedin.com/in/akshat-yadav-240467330)
 4. **Kumari Ayushi Sahoo** - [GitHub](https://github.com/ayushisahoo22) | [LinkedIn](https://linkedin.com/in/ayushi-sahoo-539652341)
 5. **Priyanshu Maurya** - [GitHub](https://github.com/Priyanshu1617Maurya) | [LinkedIn](https://linkedin.com/in/priyanshu-maurya-68442833b)
