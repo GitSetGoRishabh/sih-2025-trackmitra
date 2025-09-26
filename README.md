@@ -1,4 +1,4 @@
-<img width="1848" height="470" alt="image" src="https://github.com/user-attachments/assets/94c23f8c-94ee-4081-ace7-789b26d7c992" /># 🚀 Trackmitra
+# 🚀 Trackmitra
 _A smart companion for real time tracking and instant assistance._
 
 ---
