@@ -14,7 +14,7 @@ An interactive web app which will help the operational manager or any assigned o
 1. **REAL TIME DATA** : By using GPS signals ,timetables and edge AI for real time data and then enhance the routes and dwell timings which will help in low connectivity.
 _Edge AI - When the data is not centralised instead it is localised in local servers which will reduce the time to fetch._
 
-2.**AI ENGINE** : For dynamic reschedulling , re-optimization of tracks , alerts if any bottlenecks are there on certain sections , prediction of delays using the past history and real time data and energy consumption.
+2. **AI ENGINE** : For dynamic reschedulling , re-optimization of tracks , alerts if any bottlenecks are there on certain sections , prediction of delays using the past history and real time data and energy consumption.
 
 3. **CONTROLLER SUPPORT** : This is for the operational manager , a smart dashboard which explains the suggestions provided by the AI engine but also has the ability of mannual intervention and overriding for if any case the AI doesn't provide the best solution according to the officer.
 
